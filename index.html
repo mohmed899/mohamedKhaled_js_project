@@ -1,0 +1,94 @@
+
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="./styles/style.css" />
+        <link rel="stylesheet" href="./styles/animate.css" />
+        <title>Document</title>
+        <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+    </head>
+
+    <body>
+        <div>
+            <div style="background-image: url(./imgs/simple-house-01.jpg); background-position: center; background-attachment: fixed; height: 60%; flex-wrap: wrap; display: flex; justify-content: center;">
+                <div class="container">
+                    <div class="nav_bar">
+                        <div class="brand">
+                            <h2 style="color: white; margin: 0px;">X-Store</h2>
+                        </div>
+                        <ul class="links">
+                            <li><a href="./index.html">Home</a></li>
+                            <li><a href="./aboutme.html">About</a></li>
+                            <li><a href="./contact.html">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="search_box">
+                    <input id="searsh_text" type="text" class="input" oninput="loadSearchSuggestion()" placeholder="search...." list="searsh_text_List" />
+                    <button id="searsh_btn" onclick="saveSTextCookie()">Searsh</button>
+                </div>
+
+                <datalist id="searsh_text_List"> </datalist>
+            </div>
+        </div>
+
+        <div class="btn_nav_contaner">
+            <button class="nav_btn" onclick="loadData('men')">men</button>
+            <button class="nav_btn" onclick="loadDataWithDelay('women')">women</button>
+            <button class="nav_btn" onclick="loadData('3D')">3D</button>
+        </div>
+
+        <div id="super_con" class="super_con">
+           
+            
+        </div>
+
+
+        <div class="bottom_section">
+            <div class="slider">
+                <i onclick="fMoveImg('left')" class="fas fa-arrow-circle-left left_btn"></i>
+
+               <img id="imgId" src="./imgs/slider/0.jpg"  class="slider_img">
+           
+
+
+                <i onclick="fMoveImg('right')" style="float: right;" class="fas fa-arrow-circle-right right_btn"></i>
+
+            </div>
+
+            <div class="bottom_side_section">
+                <h3 class="product_title">more about this Store</h3>
+                <p class="product_des" style="font-size: 1.3rem;">
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero quas fugit qui incidunt doloribus magnam exercitationem neque. Non, sequi hic consequuntur veniam accusantium perferendis, fugiat perspiciatis veritatis nisi
+                    sit a?
+                </p>
+            </div>
+        </div>
+
+        <div  id="up_btn" class="parent  wow bounceInUp">
+            <a href="#" id="changelink"> <i class="fas fa-chevron-circle-up child"></i> </a>
+               
+      
+          </div >
+       
+
+        <footer class="footer">
+            <div class="footer_copyrights">
+                copyrights &copy; 2021 mohamed khaled
+            </div>
+            <div>
+                <a class="footer_icon" href="https://www.facebook.com/muhammed.khaled.5055/"><i class="fab fa-facebook"></i></a>
+                <a  class="footer_icon" href="https://github.com/mohmed899"><i class="fab fa-github"></i></a>
+                <a   class="footer_icon"href="mailto:test@gmail.com"><i class="fab fa-google"></i></a>
+            </div>
+        </footer>
+
+        <script src="https://kit.fontawesome.com/b8ef77f3d6.js" crossorigin="anonymous"></script>
+        <script src="./scripts/script.js"></script>
+        <script src="./scripts/wow.min.js"></script>
+
+    </body>
+</html>

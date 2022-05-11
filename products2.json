@@ -1,0 +1,83 @@
+[
+    {
+        "id":"1",
+        "pType":"men",
+        "pName":"shirt",
+        "pDescription":"super cool product",
+        "pImage":"https://5.imimg.com/data5/RS/OV/KI/SELLER-48111589/men-fashion-clothing-tailoring-services-250x250.png",
+        "pPrice":"20$"
+
+    },
+    {
+        "id":"2",
+        "pType":"men",
+        "pName":"Shirt",
+        "pDescription":"super cool product",
+        "pImage":"https://3.imimg.com/data3/CQ/VB/MY-13297978/1-250x250.png",
+        "pPrice":"20$"
+    },
+    {
+        "id":"3",
+        "pType":"men",
+        "pName":"jacket",
+        "pDescription":"super cool product",
+        "pImage":"https://4.imimg.com/data4/RU/VC/MY-11853389/men-s-jackets-250x250.jpg",
+        "pPrice":"20$"
+    },
+    {
+        "id":"4",
+        "pType":"men",
+        "pName":"shose",
+        "pDescription":"super cool product",
+        "pImage":"https://cdn.miswag.me/images/thumbs256/miswag_jtNeJcjiZ2qi.jpg",
+        "pPrice":"20$"
+    },
+    {
+        "id":"5",
+        "pType":"men",
+        "pName":"Shirt",
+        "pDescription":"super cool product",
+        "pImage":"https://3.imimg.com/data3/CQ/VB/MY-13297978/1-250x250.png",
+        "pPrice":"20$"
+    },
+    {
+        "id":"6",
+        "pType":"men",
+        "pName":"Watch",
+        "pDescription":"super cool product",
+        "pImage":"https://www.zoom4vip.com/ecdata/stores/NHXXNI5265/image/cache/data/products/1620469490_Lige2-1-250x250.jpg",
+        "pPrice":"20$"
+    },
+    {
+        "id":"1",
+        "pType":"women",
+        "pName":"sara",
+        "pDescription":"ahmed",
+        "pImage":"ahmed",
+        "pPrice":"20$"
+    },
+    {
+        "id":"1",
+        "pType":"women",
+        "pName":"sara",
+        "pDescription":"ahmed",
+        "pImage":"ahmed",
+        "pPrice":"20$"
+    },
+    {
+        "id":"1",
+        "pType":"women",
+        "pName":"sara",
+        "pDescription":"ahmed",
+        "pImage":"ahmed",
+        "pPrice":"20$"
+    },
+    {
+        "id":"1",
+        "pType":"women",
+        "pName":"sara",
+        "pDescription":"ahmed",
+        "pImage":"ahmed",
+        "pPrice":"20$"
+    }
+]

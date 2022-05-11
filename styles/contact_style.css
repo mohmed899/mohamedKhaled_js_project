@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&family=Roboto:wght@300&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.contact {
+    width: 800px;
+    margin: auto;
+}
+
+.contact__h1 {
+    text-align: center;
+}
+
+.p-block {
+    color: #9ca8b2;
+    line-height: 1.5;
+}
+
+.p-block--center {
+    text-align: center;
+}
+
+.p-block--margin-bottm {
+    margin-bottom: 40px;
+}
+
+.contact__container {
+    display: flex;
+}
+
+.contact__left-part {
+    flex-basis: 50%;
+    text-align: right;
+    padding-right: 50px;
+}
+
+.contact__right-part {
+    flex-basis: 50%;
+    padding-left: 20px;
+}
+
+.contact__input {
+    padding: 10px;
+    width: 250px;
+    border: none;
+    border-bottom: 2px solid #efefef;
+    margin-bottom: 15px;
+    outline-width: 0;
+}
+
+.contact__text-area {
+    border: none;
+    border-bottom: 1px solid #efefef;
+    outline-width: 0;
+}
+
+.contact__submmit {
+    background-color: #319966;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.contact__link {
+    color: #9ca8b2;
+    text-decoration: none;
+}
+
+.contact__link:hover {
+    color: #9ca8b2;
+}
+
+.contact__link-package {
+    margin: 10px 0;
+}
+
+.fa-phone,
+.fa-envelope {
+    color: #319966;
+    margin-right: 10px;
+}
+
+.contact__icons-container {
+    margin-top: 32px;
+}
+
+.fa-facebook,
+.fa-twitter,
+.fa-instagram {
+    color: #9ca8b2;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.contact__h2 {
+    margin-top: 0;
+}
+
+.contact__container {
+    margin-top: 55px;
+}

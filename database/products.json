@@ -1,0 +1,103 @@
+[
+    {
+        "id":"1",
+        "pType":"men",
+        "pName":"Shirt",
+        "pDescription":"super cool product",
+        "pImage":"https://5.imimg.com/data5/RS/OV/KI/SELLER-48111589/men-fashion-clothing-tailoring-services-250x250.png",
+        "pPrice":"20$"
+
+    },
+    {
+        "id":"2",
+        "pType":"men",
+        "pName":"Shirt",
+        "pDescription":"super cool product",
+        "pImage":"https://3.imimg.com/data3/CQ/VB/MY-13297978/1-250x250.png",
+        "pPrice":"100$"
+    },
+    {
+        "id":"3",
+        "pType":"men",
+        "pName":"jacket",
+        "pDescription":"super cool product",
+        "pImage":"https://4.imimg.com/data4/RU/VC/MY-11853389/men-s-jackets-250x250.jpg",
+        "pPrice":"42$"
+    },
+    {
+        "id":"4",
+        "pType":"men",
+        "pName":"shose",
+        "pDescription":"super cool product",
+        "pImage":"https://cdn.miswag.me/images/thumbs256/miswag_jtNeJcjiZ2qi.jpg",
+        "pPrice":"52$"
+    },
+    {
+        "id":"5",
+        "pType":"men",
+        "pName":"Shirt",
+        "pDescription":"super cool product",
+        "pImage":"https://i.pinimg.com/564x/33/f9/80/33f9808060cacd324f5016da43f59d81.jpg",
+        "pPrice":"63$"
+    },
+    {
+        "id":"6",
+        "pType":"men",
+        "pName":"Watch",
+        "pDescription":"super cool product",
+        "pImage":"https://www.zoom4vip.com/ecdata/stores/NHXXNI5265/image/cache/data/products/1620469490_Lige2-1-250x250.jpg",
+        "pPrice":"45$"
+    },
+    {
+        "id":"7",
+        "pType":"women",
+        "pName":"shose",
+        "pDescription":"super cool product",
+        "pImage":"https://i.pinimg.com/474x/18/fe/11/18fe11c5405535a20fd2fd94558ff562.jpg",
+        "pPrice":"230$"
+
+    },
+    {
+        "id":"8",
+        "pType":"women",
+        "pName":"makeup",
+        "pDescription":"super cool product",
+        "pImage":"https://m.media-amazon.com/images/I/51MkTdj9rPL.jpg",
+        "pPrice":"10$"
+    },
+    {
+        "id":"9",
+        "pType":"women",
+        "pName":"dress",
+        "pDescription":"super cool product",
+        "pImage":"https://5.imimg.com/data5/SELLER/Default/2021/1/KI/ZJ/LX/304280/-dsc0597-aa-500x500.jpg",
+        "pPrice":"50$"
+    },
+    {
+        "id":"10",
+        "pType":"3D",
+        "pName":"bed",
+        "pDescription":"super cool product",
+        "pImage":"./objs/Bed.glb",
+        "pPrice":"70$"
+
+    },
+    {
+        "id":"11",
+        "pType":"3D",
+        "pName":"Couch",
+        "pDescription":"super cool product",
+        "pImage":"./objs/Couch Medium.glb",
+        "pPrice":"800$"
+    },
+    {
+        "id":"12",
+        "pType":"3D",
+        "pName":"Chair",
+        "pDescription":"super cool product",
+        "pImage":"./objs/black_leather_chair.gltf",
+        "pPrice":"100$"
+    }
+    
+    
+]
